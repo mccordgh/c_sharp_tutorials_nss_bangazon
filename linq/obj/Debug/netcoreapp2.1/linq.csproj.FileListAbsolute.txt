@@ -1,0 +1,11 @@
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/bin/Debug/netcoreapp2.1/linq.deps.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/bin/Debug/netcoreapp2.1/linq.runtimeconfig.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/bin/Debug/netcoreapp2.1/linq.runtimeconfig.dev.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/bin/Debug/netcoreapp2.1/linq.dll
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/bin/Debug/netcoreapp2.1/linq.pdb
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/obj/Debug/netcoreapp2.1/linq.csprojAssemblyReference.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/obj/Debug/netcoreapp2.1/linq.csproj.CoreCompileInputs.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/obj/Debug/netcoreapp2.1/linq.AssemblyInfoInputs.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/obj/Debug/netcoreapp2.1/linq.AssemblyInfo.cs
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/obj/Debug/netcoreapp2.1/linq.dll
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/linq/obj/Debug/netcoreapp2.1/linq.pdb
