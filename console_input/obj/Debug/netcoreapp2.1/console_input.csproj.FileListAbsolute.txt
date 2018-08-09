@@ -1,0 +1,11 @@
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/bin/Debug/netcoreapp2.1/console_input.deps.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/bin/Debug/netcoreapp2.1/console_input.runtimeconfig.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/bin/Debug/netcoreapp2.1/console_input.runtimeconfig.dev.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/bin/Debug/netcoreapp2.1/console_input.dll
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/bin/Debug/netcoreapp2.1/console_input.pdb
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/obj/Debug/netcoreapp2.1/console_input.csprojAssemblyReference.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/obj/Debug/netcoreapp2.1/console_input.csproj.CoreCompileInputs.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/obj/Debug/netcoreapp2.1/console_input.AssemblyInfoInputs.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/obj/Debug/netcoreapp2.1/console_input.AssemblyInfo.cs
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/obj/Debug/netcoreapp2.1/console_input.dll
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/console_input/obj/Debug/netcoreapp2.1/console_input.pdb
