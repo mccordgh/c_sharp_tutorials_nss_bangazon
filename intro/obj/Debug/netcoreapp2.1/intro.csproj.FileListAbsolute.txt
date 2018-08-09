@@ -1,0 +1,11 @@
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/bin/Debug/netcoreapp2.1/intro.deps.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/bin/Debug/netcoreapp2.1/intro.runtimeconfig.dev.json
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/bin/Debug/netcoreapp2.1/intro.dll
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/bin/Debug/netcoreapp2.1/intro.pdb
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/obj/Debug/netcoreapp2.1/intro.csprojAssemblyReference.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/obj/Debug/netcoreapp2.1/intro.csproj.CoreCompileInputs.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfoInputs.cache
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/obj/Debug/netcoreapp2.1/intro.AssemblyInfo.cs
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/obj/Debug/netcoreapp2.1/intro.dll
+/Users/matthewmccord/workspace/c_sharp/nss_bangazon/intro/obj/Debug/netcoreapp2.1/intro.pdb
